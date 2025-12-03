@@ -1,13 +1,24 @@
-# 📄 V.K Tools – Free Online PDF & Image Utilities  
-Fast, secure, and browser-based tools for compressing, converting, and managing documents.  
-Hosted on GitHub Pages.
+# PDF COMPRESSOR – Multi-Tool PDF & Image Utility
 
----
+This project is a React + Vite + TypeScript application providing tools for:
+- PDF Compression  
+- Image Compression  
+- JPG to PDF  
+- PDF to Word  
+- Merge PDF  
+- Split PDF  
+- Word to PDF  
+- And more
 
-## 🚀 Overview  
-**V.K Tools** is a multi-tool web application offering a suite of fast, lightweight, and 100% free file utilities.  
-All tools are fully browser-based and run locally using JavaScript, ensuring privacy and speed without uploading files to a server.
+## Tech Stack
+- React (SWC)
+- Vite
+- TailwindCSS
+- Radix UI components
+- Supabase (for optional backend functionality)
 
-This project includes PDF compressors, converters, mergers, splitters, and image optimization tools designed for students, professionals, and everyday users.
+## Development
+Install dependencies:
 
-Live Website:  
+```bash
+npm install
